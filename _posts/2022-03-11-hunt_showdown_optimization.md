@@ -13,14 +13,14 @@ toc_label: "Content"
 These are my personal Hunt: Showdown Windows 10 optimization attempts to improve frames per second, reduce frames drops and stutter. Keep in mind that not every setting may be right for you.
 
 # Hunt settings
-![settings1.png](/assets/images/2022-03-11/settings1.jpg)
-![settings2.png](/assets/images/2022-03-11/settings2.jpg)
-![settings3.png](/assets/images/2022-03-11/settings3.jpg)
+![settings1.png](https://raw.githubusercontent.com/nopantsfriday/blog/master/assets/images/2022-03-11/settings1.jpg)
+![settings2.png](https://raw.githubusercontent.com/nopantsfriday/blog/master/assets/images/2022-03-11/settings2.jpg)
+![settings3.png](https://raw.githubusercontent.com/nopantsfriday/blog/master/assets/images/2022-03-11/settings3.jpg)
 
 # Nvidia 3D Settings
-![1.png](/assets/images/2022-03-11/1.png)
-![2.png](/assets/images/2022-03-11/2.png)
-![3.png](/assets/images/2022-03-11/3.png)
+![1.png](https://raw.githubusercontent.com/nopantsfriday/blog/master/assets/images/2022-03-11/1.png)
+![2.png](https://raw.githubusercontent.com/nopantsfriday/blog/master/assets/images/2022-03-11/2.png)
+![3.png](https://raw.githubusercontent.com/nopantsfriday/blog/master/assets/images/2022-03-11/3.png)
 
 # Disable hardware acceleration in Discord
 - Open ```Discord```
