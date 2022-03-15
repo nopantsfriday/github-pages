@@ -5,6 +5,8 @@ categories:
   - blog
 tags:
   - gaming
+toc: true
+toc_label: "Content"
 ---
 
 # My personal Hunt: Showdown optimization settings
