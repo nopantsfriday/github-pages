@@ -1,5 +1,5 @@
 ---
-title: "Posts by Category"
+title: "Commits by Category"
 layout: categories
 permalink: /categories/
 author_profile: false
