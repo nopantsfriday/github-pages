@@ -75,7 +75,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: wide
+      layout: single
       author_profile: false
       read_time: false
       comments: false
@@ -86,7 +86,7 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: wide
+      layout: single
       author_profile: false
 
 category_archive:
