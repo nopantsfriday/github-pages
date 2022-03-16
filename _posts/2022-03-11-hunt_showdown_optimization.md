@@ -8,6 +8,7 @@ tags:
 classes: wide
 toc: true
 toc_label: "Content"
+toc_sticky: false
 ---
 
 # My personal Hunt: Showdown optimization settings
