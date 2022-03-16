@@ -5,6 +5,7 @@ categories:
   - blog
 tags:
   - gaming
+classes: wide
 toc: true
 toc_label: "Content"
 ---
